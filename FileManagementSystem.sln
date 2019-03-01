@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileManagementSystem", "FileManagementSystem\", "{0E3C6F42-6115-4850-B5CC-2C530CCE355F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_13378"
+		Debug.AspNetCompiler.PhysicalPath = "FileManagementSystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_13378\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_13378"
+		Release.AspNetCompiler.PhysicalPath = "FileManagementSystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_13378\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "13378"
+		SlnRelativePath = "FileManagementSystem\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3C6F42-6115-4850-B5CC-2C530CCE355F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3C6F42-6115-4850-B5CC-2C530CCE355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE57C44A-17A7-495E-8ADF-4D7113D7DE94}
+	EndGlobalSection
+EndGlobal
