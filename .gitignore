@@ -1,0 +1,5 @@
+Bin/
+App_Data/
+FileManagementSystem/App_Data/
+.vs/
+/UploadSystemDatabase.mdf
